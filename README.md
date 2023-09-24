@@ -1,15 +1,7 @@
 <h3>GitHub - infoRG</h3>
 <h4>Perfil para o versionamento dos sistema da empresa</h4>
 
-📚 Github Stats: <br>
-  <div align="center">
-    <span>
-      <img align="center" width="30%" src="https://github-readme-stats.vercel.app/api?username=infoRGBackups&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-      <img align="center" width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infoRGBackups&layout=compact&langs_count=16&theme=tokyonight"/>
-    </span>
-  </div>
-  <br>
-  <div align="center">
+ <div align="left">
     <span>
       <img align="center" alt="Ally-Java1" height="7%" width="7%" src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/Java.gif" />
       <img align="center" alt="Ally-MySQL" height="9%" width="9%" src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/MySQL.gif" />
@@ -18,11 +10,20 @@
       <img align="center" alt="Ally-JSP" height="7%" width="7%" src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/JSP.gif" />
     </span>
   </div>
+  
+  <div align="center">
+    <span>
+      <img align="center" width="32%" src="https://github-readme-stats.vercel.app/api?username=infoRGBackups&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      <br><br>
+      <img align="center" width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infoRGBackups&layout=compact&langs_count=16&theme=tokyonight"/>
+    </span>
+  </div>
+  <br> 
   <!--
     <div>
-      <a href="[https://github.com/GivaldoMedeirosNeto](https://github.com/GivaldoMedeirosNeto)"> 
-      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GivaldoMedeirosNeto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GivaldoMedeirosNeto&layout=compact&langs_count=16&theme=tokyonight"/>
+      <a href="[https://github.com/infoRGBackups](https://github.com/infoRGBackups)"> 
+      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=infoRGBackups&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infoRGBackups&layout=compact&langs_count=16&theme=tokyonight"/>
     </div>
   -->
 <!--
