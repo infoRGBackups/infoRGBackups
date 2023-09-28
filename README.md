@@ -20,8 +20,8 @@
 
 <div align="center">
   <span>
-    <img align="center" width="32%" src="https://github-readme-stats.vercel.app/api?username=infoRGBackups&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><br><br>
-    <img align="center" width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infoRGBackups&layout=compact&langs_count=16&theme=tokyonight"/>
+    <img align="center" width="32%" src="https://github-readme-stats.vercel.app/api?username=infoRGBackups&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img align="center" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infoRGBackups&layout=compact&langs_count=16&theme=tokyonight"/>
   </span>
 </div>
 
