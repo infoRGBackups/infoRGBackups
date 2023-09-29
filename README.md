@@ -22,6 +22,8 @@
     <img align="center" alt="Logo_Css" height="7%" width="7%" src="https://github.com/infoRGBackups/infoRGBackups/blob/main/Icones/Css.png" />&nbsp;&nbsp;
     <img align="center" alt="Logo_Git" height="7%" width="7%" src="https://github.com/infoRGBackups/infoRGBackups/blob/main/Icones/Git.png" />&nbsp;&nbsp;
     <img align="center" alt="Logo_GitHub" height="7%" width="7%" src="https://github.com/infoRGBackups/infoRGBackups/blob/main/Icones/GitHub.png" />&nbsp;&nbsp;
+    <img align="center" alt="Logo_EclipseIde" height="7%" width="7%" src="https://github.com/infoRGBackups/infoRGBackups/blob/main/Icones/Eclipse.png" />&nbsp;&nbsp;
+    <img align="center" alt="Logo_Windows" height="7%" width="7%" src="https://github.com/infoRGBackups/infoRGBackups/blob/main/Icones/Windows.png" />&nbsp;&nbsp;
   </span>
 </div>
 
