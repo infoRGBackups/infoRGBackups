@@ -12,7 +12,7 @@
 <br>
 
 #### 📚 Plataformas e Liguagens 📚 
-<div align="center">
+<div align="left">
   <span>
     <img align="center" alt="Ally-Java1" height="7%" width="7%" src="https://github.com/infoRGBackups/infoRGBackups/blob/main/imagem/Java.gif" />&nbsp;&nbsp;
     <img align="center" alt="Ally-JSP" height="7%" width="7%" src="https://github.com/infoRGBackups/infoRGBackups/blob/main/imagem/JSP.gif" /><br><br><br>
@@ -28,11 +28,14 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=infoRGBackups&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Givaldo Medeiros Neto github stats" />
 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infoRGBackups&layout=compact&hide_border=true&title_color=00bfbf&&text_color=c9d1d9&bg_color=0d1117"/>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=infoRGBackups&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
   
+ 
 </div>
 
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 
 
