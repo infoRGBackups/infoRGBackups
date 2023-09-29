@@ -11,11 +11,17 @@
 </div>
 <br>
 
-#### 📚 Plataformas e Liguagens 📚 
+#### 📚 Liguagens e Plataformas 📚 
 <div align="left">
   <span>
-    <img align="center" alt="Ally-Java1" height="7%" width="7%" src="https://github.com/infoRGBackups/infoRGBackups/blob/main/imagem/Java.gif" />&nbsp;&nbsp;
-    <img align="center" alt="Ally-JSP" height="7%" width="7%" src="https://github.com/infoRGBackups/infoRGBackups/blob/main/imagem/JSP.gif" /><br><br><br>
+    <img align="center" alt="Logo_MySql" height="7%" width="7%" src="https://github.com/infoRGBackups/infoRGBackups/blob/main/Icones/MySql.png" />&nbsp;&nbsp;
+    <img align="center" alt="Logo_Java" height="7%" width="7%" src="https://github.com/infoRGBackups/infoRGBackups/blob/main/Icones/Java.png" />&nbsp;&nbsp;
+    <img align="center" alt="Logo_JSP" height="7%" width="7%" src="https://github.com/infoRGBackups/infoRGBackups/blob/main/Icones/Jsp.png" />&nbsp;&nbsp;
+    <img align="center" alt="Logo_JavaScript" height="7%" width="7%" src="https://github.com/infoRGBackups/infoRGBackups/blob/main/Icones/JavaScript.png" />&nbsp;&nbsp;
+    <img align="center" alt="Logo_Html" height="7%" width="7%" src="https://github.com/infoRGBackups/infoRGBackups/blob/main/Icones/Html.png" />&nbsp;&nbsp;
+    <img align="center" alt="Logo_Css" height="7%" width="7%" src="https://github.com/infoRGBackups/infoRGBackups/blob/main/Icones/Css.png" />&nbsp;&nbsp;
+    <img align="center" alt="Logo_Git" height="7%" width="7%" src="https://github.com/infoRGBackups/infoRGBackups/blob/main/Icones/Git.png" />&nbsp;&nbsp;
+    <img align="center" alt="Logo_GitHub" height="7%" width="7%" src="https://github.com/infoRGBackups/infoRGBackups/blob/main/Icones/GitHub.png" />&nbsp;&nbsp;
   </span>
 </div>
 
